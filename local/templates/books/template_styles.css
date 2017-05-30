@@ -1,0 +1,17 @@
+._bold
+{
+	font-weight: 600;
+}
+
+
+#header
+{
+	min-height: 100px;
+}
+
+h1#pagetitle
+{
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+

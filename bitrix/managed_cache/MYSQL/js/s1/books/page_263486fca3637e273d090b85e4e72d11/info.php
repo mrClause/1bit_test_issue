@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/components/vlad/simple.catalog/templates/.default/vlad/simple.catalog.section/.default/script.js" => "149606926149",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

@@ -1,0 +1,28 @@
+._relateds ._picture
+{
+    text-align: center;
+    max-height: 175px;
+    height: 100%;
+    max-width: 300px;
+    background-position: 0 center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+._relateds .name
+{
+    text-align: center;
+    padding-top: 5px;
+    font-weight: 600;
+    min-height: 50px;
+    margin-bottom: 20px;
+}
+
+._relateds h2
+{
+    display: inline-block;
+    padding-right: 40px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}

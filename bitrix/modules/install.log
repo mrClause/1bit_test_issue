@@ -1,0 +1,11 @@
+2017-05-28 21:06:16 - DATABASE_ERROR - <hr><pre>Query:
+create table if not exists b_iblock_cache
+(
+	CACHE_KEY varchar(35) not null,
+	CACHE longtext not null,
+	CACHE_DATE datetime not null default '0000-00-00 00:00:00',
+	primary key (CACHE_KEY)
+)
+
+Error:
+<font color=red>[1067] Invalid default value for 'CACHE_DATE'!</font></pre>

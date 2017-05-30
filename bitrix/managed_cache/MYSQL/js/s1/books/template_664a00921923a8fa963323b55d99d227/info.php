@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/books/libs/jquery/jquery.min.js" => "149605716186659","/local/templates/books/libs/fancybox/fancybox.min.js" => "149043095045500","/local/templates/books/scripts/custom.js" => "149605853276",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
